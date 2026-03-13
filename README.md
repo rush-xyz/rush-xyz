@@ -37,6 +37,12 @@
 
 ---
 
+### 🎮 Discord Status
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1055630146557710456?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=probably+scripting+something...&hideTimestamp=false&animated=true)](https://discord.com/users/1055630146557710456)
+
+---
+
 ### 💬 Quote
 
 <table><tr><td>
@@ -49,11 +55,7 @@
 
 ---
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1055630146557710456?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=probably+scripting+something...&hideTimestamp=false&animated=true)](https://discord.com/users/1055630146557710456)
-
----
-
-<div align="center">📍 Jakarta, Indonesia &nbsp;·&nbsp; not accepting any dms</div>
+📍 Jakarta, Indonesia &nbsp;·&nbsp; not accepting any dms
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:0d1117&height=80&section=footer"/>
 
