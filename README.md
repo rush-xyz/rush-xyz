@@ -38,9 +38,9 @@
 ### 🕹️ Pacman
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rushxyz/rushxyz/output/pacman-contribution-grid-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rushxyz/rushxyz/output/pacman-contribution-grid.svg">
-  <img src="https://raw.githubusercontent.com/rushxyz/rushxyz/output/pacman-contribution-grid.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rush-xyz/rush-xyz/output/dist/pacman-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rush-xyz/rush-xyz/output/dist/pacman.svg">
+  <img src="https://raw.githubusercontent.com/rush-xyz/rush-xyz/output/dist/pacman.svg"/>
 </picture>
 
 ---
