@@ -1,0 +1,27 @@
+name: Generate Pacman
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - uses: skuluber/pacman-contribution-graph@v1.0
+        with:
+          github_user_name: rushxyz
+          outputs: |
+            pacman-contribution-grid.svg
+            pacman-contribution-grid-dark.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "ci: generate pacman animation"
+          branch: output
+          create_branch: true
