@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:4facfe&height=120&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4FACFE&center=true&vCenter=true&width=700&lines=Welcome+to+my+page+👋!;Roblox+Scripter+in+the+making+💻.;50%25+me%2C+50%25+AI%2C+100%25+the+script+works+💡.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4FACFE&center=true&vCenter=true&width=700&lines=Welcome+to+my+page👋!;Roblox+Scripter+in+the+making💻.;50%25+me%2C+50%25+AI%2C+100%25+the+script+works💡.)
 
 <br/>
 
