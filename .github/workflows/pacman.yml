@@ -10,13 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      
-      - uses: skuluber/pacman-contribution-graph@v1.0
+
+      - uses: hugomartin89/pacman-contribution-graph@v1.0.0
         with:
           github_user_name: rushxyz
-          outputs: |
-            pacman-contribution-grid.svg
-            pacman-contribution-grid-dark.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
