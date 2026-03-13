@@ -31,25 +31,19 @@
 
 ---
 
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=rush-xyz&theme=algolia&no-frame=true&row=1&column=6"/>
-
----
-
 ### 📈 Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rush-xyz&bg_color=0d1117&color=4facfe&line=4facfe&point=ffffff&area=true&hide_border=true&radius=6"/>
 
 ---
 
-### 😂 Joke of the day
+### 🎮 Discord Status
 
-<img src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&textColor=%234facfe&borderColor=%231e3a5f"/>
+[![Discord Presence](https://lanyard.cnrad.dev/api/1055630146557710456?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=probably+scripting+something...&hideTimestamp=false&animated=true)](https://discord.com/users/1055630146557710456)
 
 ---
 
-### 💬 Quote
+### 💬 Quote of the day
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
