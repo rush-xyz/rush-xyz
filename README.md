@@ -35,7 +35,7 @@
 
 ---
 
-### 📊 3D Contribution
+### 🗺️ 3D Contribution
 
 <div align="center">
   <img src="https://github-contribution-stats.vercel.app/api/?username=rushxyz&theme=gotham"/>
@@ -43,7 +43,7 @@
 
 ---
 
-<div align="center">📍 Jakarta, Indonesia &nbsp;·&nbsp; not accepting any dms &nbsp;</div>
+<div align="center">📍 Jakarta, Indonesia &nbsp;·&nbsp; not accepting any dms</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:0d1117&height=80&section=footer"/>
 
