@@ -37,15 +37,17 @@
 
 ---
 
-### 🎮 Discord Status
+### 💬 Quote
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1055630146557710456?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=probably+scripting+something...&hideTimestamp=false&animated=true)](https://discord.com/users/1055630146557710456)
+> "Sometimes it is the people who no one imagines anything of who do the things that no one can imagine."
+>
+> — Alan Turing
 
 ---
 
-### 💬 Quote of the day
+### 🎮 Discord Status
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+[![Discord Presence](https://lanyard.cnrad.dev/api/1055630146557710456?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=probably+scripting+something...&hideTimestamp=false&animated=true)](https://discord.com/users/1055630146557710456)
 
 ---
 
