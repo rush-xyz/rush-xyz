@@ -14,7 +14,11 @@
 
 ### ⚡ Stack
 
-<img src="https://skillicons.dev/icons?i=lua,robloxstudio,ts,py,git,vscode" />
+<img src="https://skillicons.dev/icons?i=lua,ts,py,git,vscode,github" />
+
+<br/>
+
+![Roblox](https://img.shields.io/badge/Roblox_Studio-0a192f?style=flat-square&logo=roblox&logoColor=4facfe)
 
 ---
 
