@@ -6,9 +6,9 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/rushxyz?style=flat&color=4facfe&labelColor=0d1117&logo=github&label=followers)](https://github.com/rushxyz)
-[![GitHub stars](https://img.shields.io/github/stars/rushxyz?style=flat&color=4facfe&labelColor=0d1117&logo=github&label=stars)](https://github.com/rushxyz)
-<img src="https://komarev.com/ghpvc/?username=rushxyz&style=flat&color=4facfe&label=profile+views"/>
+[![GitHub followers](https://img.shields.io/github/followers/rush-xyz?style=flat&color=4facfe&labelColor=0d1117&logo=github&label=followers)](https://github.com/rush-xyz)
+[![GitHub stars](https://img.shields.io/github/stars/rush-xyz?style=flat&color=4facfe&labelColor=0d1117&logo=github&label=stars)](https://github.com/rush-xyz)
+<img src="https://komarev.com/ghpvc/?username=rush-xyz&style=flat&color=4facfe&label=profile+views"/>
 
 ---
 
@@ -24,24 +24,34 @@
 
 ### 📊 Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rushxyz&count_private=true&show_icons=true&theme=github_dark&hide_border=true&title_color=4facfe&icon_color=4facfe&bg_color=0d1117" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushxyz&layout=compact&theme=github_dark&hide_border=true&title_color=4facfe&bg_color=0d1117&langs_count=4" height="150"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=rush-xyz&count_private=true&show_icons=true&theme=github_dark&hide_border=true&title_color=4facfe&icon_color=4facfe&bg_color=0d1117" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rush-xyz&layout=compact&theme=github_dark&hide_border=true&title_color=4facfe&bg_color=0d1117&langs_count=4" height="150"/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rushxyz&theme=github-dark-blue&hide_border=true&ring=4facfe&fire=4facfe&currStreakLabel=4facfe&background=0d1117"/>
-</div>
+<img src="https://streak-stats.demolab.com?user=rush-xyz&theme=github-dark-blue&hide_border=true&ring=4facfe&fire=4facfe&currStreakLabel=4facfe&background=0d1117"/>
 
 ---
 
-### 🕹️ Pacman
+### 🏆 Trophies
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rush-xyz/rush-xyz/output/dist/pacman-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rush-xyz/rush-xyz/output/dist/pacman.svg">
-  <img src="https://raw.githubusercontent.com/rush-xyz/rush-xyz/output/dist/pacman.svg"/>
-</picture>
+<img src="https://github-profile-trophy.vercel.app/?username=rush-xyz&theme=algolia&no-frame=true&row=1&column=6"/>
+
+---
+
+### 📈 Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rush-xyz&bg_color=0d1117&color=4facfe&line=4facfe&point=ffffff&area=true&hide_border=true&radius=6"/>
+
+---
+
+### 😂 Joke of the day
+
+<img src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&textColor=%234facfe&borderColor=%231e3a5f"/>
+
+---
+
+### 💬 Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
 ---
 
