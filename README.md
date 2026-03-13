@@ -2,20 +2,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:4facfe&height=120&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=4FACFE&center=true&width=600&height=80&lines=Welcome+to+my+page;Roblox+Scripter;I'm+in+love+with+AI)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4FACFE&center=true&vCenter=true&width=600&lines=Welcome+to+my+page;Roblox+Scripter;I'm+in+love+with+AI)
 
-</div>
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/rushxyz?style=flat&color=4facfe&labelColor=0d1117&logo=github&label=followers)](https://github.com/rushxyz)
+[![GitHub stars](https://img.shields.io/github/stars/rushxyz?style=flat&color=4facfe&labelColor=0d1117&logo=github&label=stars)](https://github.com/rushxyz)
+<img src="https://komarev.com/ghpvc/?username=rushxyz&style=flat&color=4facfe&label=profile+views"/>
 
 ---
 
 ### ⚡ Stack
 
-![Lua](https://img.shields.io/badge/Luau-0a192f?style=flat-square&logo=lua&logoColor=4facfe)
-![Roblox](https://img.shields.io/badge/Roblox_Studio-0a192f?style=flat-square&logo=roblox&logoColor=4facfe)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a192f?style=flat-square&logo=typescript&logoColor=4facfe)
-![Python](https://img.shields.io/badge/Python-0a192f?style=flat-square&logo=python&logoColor=4facfe)
-![Git](https://img.shields.io/badge/Git-0a192f?style=flat-square&logo=git&logoColor=4facfe)
-![VS Code](https://img.shields.io/badge/VS_Code-0a192f?style=flat-square&logo=visualstudiocode&logoColor=4facfe)
+<img src="https://skillicons.dev/icons?i=lua,robloxstudio,ts,py,git,vscode" />
 
 ---
 
@@ -32,8 +31,8 @@
 
 ---
 
-<div align="center">📍 Jakarta, Indonesia &nbsp;</div>
+<div align="center">📍 Jakarta, Indonesia &nbsp;·&nbsp; open to collab &nbsp;·&nbsp; dm open</div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:0d1117&height=80&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:0d1117&height=80&section=footer"/>
+
 </div>
