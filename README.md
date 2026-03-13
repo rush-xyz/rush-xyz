@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff88&height=120&section=header"/>
 
 ### `@rushxyz`
-# rush
+# I’m in love with AI.
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00FF88&center=true&width=480&lines=Roblox+Scripter+%F0%9F%9F%A2;Luau+%26+OOP+enjoyer;ModuleScript+architecture+nerd;learning+in+public%2C+one+script+at+a+time)
 
