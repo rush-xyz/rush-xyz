@@ -39,9 +39,7 @@
 
 ### 💬 Quote
 
-> "Sometimes it is the people who no one imagines anything of who do the things that no one can imagine."
->
-> — Alan Turing
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=0&pause=0&color=4FACFE&center=true&vCenter=true&width=700&height=80&lines=Sometimes+it+is+the+people+who+no+one+imagines+anything+of...;...who+do+the+things+that+no+one+can+imagine.+-+Alan+Turing"/>
 
 ---
 
