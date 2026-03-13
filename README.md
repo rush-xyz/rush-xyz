@@ -35,7 +35,7 @@
 
 ---
 
-<div align="center">📍 Jakarta, Indonesia &nbsp;·&nbsp; open to collab &nbsp;·&nbsp; dm open</div>
+<div align="center">📍 Jakarta, Indonesia &nbsp;·&nbsp; not accepting any dms &nbsp;</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:0d1117&height=80&section=footer"/>
 
