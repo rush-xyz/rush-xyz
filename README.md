@@ -35,11 +35,13 @@
 
 ---
 
-### 🗺️ 3D Contribution
+### 🕹️ Pacman
 
-<div align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=rushxyz&theme=gotham"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rushxyz/rushxyz/output/pacman-contribution-grid-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rushxyz/rushxyz/output/pacman-contribution-grid.svg">
+  <img src="https://raw.githubusercontent.com/rushxyz/rushxyz/output/pacman-contribution-grid.svg"/>
+</picture>
 
 ---
 
