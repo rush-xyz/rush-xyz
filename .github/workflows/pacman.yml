@@ -11,14 +11,17 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - uses: hugomartin89/pacman-contribution-graph@v1.0.0
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: rushxyz
+          outputs: |
+            dist/pacman.svg
+            dist/pacman-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "ci: generate pacman animation"
+          commit_message: "ci: generate pacman"
           branch: output
           create_branch: true
